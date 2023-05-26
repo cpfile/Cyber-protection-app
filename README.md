@@ -4,4 +4,4 @@ Cyber protection''
 This is our team's application.This Application is specially made only for our team.No one other than our team people will have access to this application.
 If you are a member of our team and if you find any bug related problem in this application then definitely:- <a href="mailto:mehedi0213@gmail.com">Contact us. </a>&nbsp;</p>
 #
-<p align="center">Copyright © 2023 Cyber protection All Right Reserved.
+<p align="center">Copyright © 2023 Cyber protection Team.
